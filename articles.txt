@@ -53,3 +53,11 @@
 	Link: http://www.geeksforgeeks.org/ways-remove-one-element-binary-string-xor-becomes-zero/
 26.
 	Link: http://www.geeksforgeeks.org/how-linkers-resolve-multiply-defined-global-symbols/
+27.
+	Link : http://www.geeksforgeeks.org/dos2unix-unix2dos-commands/
+28.
+	Link : http://www.geeksforgeeks.org/soft-hard-links-unixlinux/
+29.
+	Link : http://www.geeksforgeeks.org/tribonacci-numbers/
+30.
+	Link : http://www.geeksforgeeks.org/count-divisors-array-multiplication/
