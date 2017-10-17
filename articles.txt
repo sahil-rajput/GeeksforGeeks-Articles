@@ -61,3 +61,9 @@
 	Link : http://www.geeksforgeeks.org/tribonacci-numbers/
 30.
 	Link : http://www.geeksforgeeks.org/count-divisors-array-multiplication/
+31.
+	Link : http://www.geeksforgeeks.org/rearrange-binary-string-alternate-x-y-occurrences/
+32.
+	Link : http://www.geeksforgeeks.org/how-to-print-duplicate-rows-in-a-table/
+33.
+	Link : http://www.geeksforgeeks.org/c-program-print-pyramid-pattern/
