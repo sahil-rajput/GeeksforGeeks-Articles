@@ -3,8 +3,7 @@ As an intern at GeeksforGeeks. I have written articles on Advanced Data Structur
 This is the list of articles I wrote.
 
 # Article Links :
-1.
-  Link : http://www.geeksforgeeks.org/recursive-function-check-string-palindrome/<br />
+1.      Link : http://www.geeksforgeeks.org/recursive-function-check-string-palindrome/<br />
 2.
 	Link : http://www.geeksforgeeks.org/cpp-program-to-find-machine-epsilon/<br />
 3.
